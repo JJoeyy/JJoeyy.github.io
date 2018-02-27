@@ -1,2 +1,2 @@
 
-Creating a new branch is quick.
+17年5月真正进入java开发行业，18年2月底才开始自己摸索在这上面写笔记，养成习惯吧。
